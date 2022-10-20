@@ -4,5 +4,37 @@ background-color: #e6e2d3;
 
 
 h1 {
-    text-align: center
+    padding: 15px;
+    font-size: 40px;
+    background-color: #edf6f9;
+    color: #ffddd2;
+    text-align: center;
+    text-decoration: underline;
+}
+
+header {
+    padding: 10px;
+    text-decoration: underline;
+    font-size: 20px;
+    display: flex;
+    color: #006d77;
+    background-color: #e29578;
+}
+
+#skills-header {
+    font-size: 20px;
+    margin-top: 10px;
+    color:
+}
+.skills-list {
+    padding-left: 10px;
+    list-style: square;
+}
+
+header h2{
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 100%;
+    display: inline;
+    flex-flow: row wrap;
 }
