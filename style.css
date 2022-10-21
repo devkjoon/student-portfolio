@@ -55,6 +55,12 @@ header {
 .projects {
     padding-top: 10px;
     background-color: #e85d04;
+    opacity
+    transition: 1s;
+}
+
+.projects:hover {
+    opacity
 }
 
 #projects-header {
