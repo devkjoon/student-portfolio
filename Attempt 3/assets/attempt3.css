@@ -142,7 +142,7 @@ section.skills ul {
     color: #eae2b7;
     margin: 20px;
     padding: 20px;
-    width: 95%;
+    width: 97.3%;
 }
 
 #projects {
@@ -151,11 +151,29 @@ section.skills ul {
     padding: 10px;
 }
 
+section.projects div {
+    text-align: center;
+}
+
 section.projects ul {
     list-style-type: none;
     margin: 10px;
+    padding-top: 20px;
 }
 
 #horiseon {
-    text-align: center;
+    font-size: 20px;
+}
+
+.cheat-sheet-img {
+    margin: 20px;
+    width: 400px;
+    opacity: 0.5;
+    transition: 1.5s ease;
+}
+
+.cheat-sheet-img:hover {
+    opacity: 1;
+    transition: 1.5s ease;
+    transform: scale(1.5) rotate(360deg);
 }
