@@ -55,8 +55,6 @@ header {
 .projects {
     padding-top: 10px;
     background-color: #e85d04;
-    opacity
-    transition: 1s;
 }
 
 .projects:hover {
@@ -96,4 +94,18 @@ header {
 
 .social-accounts {
     background-color: #faa307;
+    padding-top: 10px;
+}
+
+#social-accounts-header {
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+    color: #403d39;
+}
+
+#social-accounts-list {
+    text-indent: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
