@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+
+body {
+    background-color: #e9c46a;
+}
+
+header {
+    padding: 20px;
+    background-color: #2a9d8f;
+    border: 5px solid #254653;
+    color: #eae2b7;
+    padding: 0.7em;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+    margin-left: 25px;
+}
+
+header div {
+    float: right;
+    padding-top: 15px;
+    margin-right: 20px;
+
+}
+
+header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #eae2b7;
+}
+
+.intro {
+    color: #e76f51;
+}
+
+section.intro h2 {
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 40px;
+    font-size: 60px;
+}
+
+#name {
+    color: #254653;
+}
+section.intro ul {
+    margin-left: 55px;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+section.intro ul p {
+    color: #2a9d8f;
+    margin-bottom: 40px;
+}
+
+.contacts {
+    height: 210px;
+    background-color: #2a9d8f;
+    border: 5px solid #254653;
+    color: #eae2b7;
+    margin: 20px;
+    padding: 20px;
+    width: 25%;
+    float: left;
+}
+
+#contacts {
+    font-size: 40px;
+    display: inline-block;
+    padding: 10px;
+}
+
+section.contacts ul {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.social-accounts {
+    height: 210px;
+    background-color: #2a9d8f;
+    border: 5px solid #254653;
+    color: #eae2b7;
+    margin: 20px;
+    padding: 20px;
+    width: 25%;
+    float: right;
+}
+
+#social-accounts {
+    font-size: 40px;
+    display: inline-block;
+    padding: 10px;
+}
+
+section.social-accounts ul {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.skills {
+    height: 210px;
+    background-color: #2a9d8f;
+    border: 5px solid #254653;
+    color: #eae2b7;
+    margin: 20px;
+    padding: 20px;
+    width: 42%;
+    float: none;
+    display: inline-block;
+}
+
+#skills {
+    font-size: 40px;
+    display: inline-block;
+    padding: 10px;
+}
+
+section.skills ul {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.projects {
+    background-color: #2a9d8f;
+    border: 5px solid #254653;
+    color: #eae2b7;
+    margin: 20px;
+    padding: 20px;
+    width: 95%;
+}
+
+#projects {
+    font-size: 40px;
+    display: inline-block;
+    padding: 10px;
+}
+
+section.projects ul {
+    list-style-type: none;
+    margin: 10px;
+}
+
+#horiseon {
+    text-align: center;
+}
