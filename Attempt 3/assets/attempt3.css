@@ -46,6 +46,7 @@ a {
 
 .intro {
     color: #e76f51;
+    position: relative;
 }
 
 section.intro h2 {
@@ -55,9 +56,26 @@ section.intro h2 {
     font-size: 60px;
 }
 
+.self-photo {
+    width: 180px;
+    border: 5px solid #254653;
+    border-radius: 50%;
+    position: absolute;
+    right: 5%;
+    top: 0;
+    margin-top: 10px;
+}
+
+.self-photo:hover {
+    transition: 1s;
+    transform: scale(1.5);
+}
+
+
 #name {
     color: #254653;
 }
+
 section.intro ul {
     margin-left: 55px;
     list-style-type: none;
@@ -100,6 +118,7 @@ section.contacts ul {
     padding: 20px;
     width: 25%;
     float: right;
+    order: 2;
 }
 
 #social-accounts {
@@ -118,10 +137,12 @@ section.social-accounts ul {
     background-color: #2a9d8f;
     border: 5px solid #254653;
     color: #eae2b7;
-    margin: 20px;
+    margin: 20px auto;
     padding: 20px;
     width: 42%;
     float: none;
+    order: 1;
+    flex: 1;
     display: inline-block;
 }
 
@@ -140,9 +161,14 @@ section.skills ul {
     background-color: #2a9d8f;
     border: 5px solid #254653;
     color: #eae2b7;
-    margin: 20px;
+    margin: 20px auto;
     padding: 20px;
-    width: 97.3%;
+    width: 98.4%;
+}
+
+.section-align {
+    display: flex;
+    justify-content: space-between;
 }
 
 #projects {
