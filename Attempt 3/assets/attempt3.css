@@ -187,18 +187,22 @@ section.projects ul {
     padding-top: 20px;
 }
 
+#flexbox {
+    font-size: 20px;
+}
+
 #horiseon {
     font-size: 20px;
 }
 
-.cheat-sheet-img {
+.img {
     margin: 20px;
     width: 400px;
     opacity: 0.5;
     transition: 1.5s ease;
 }
 
-.cheat-sheet-img:hover {
+.img:hover {
     opacity: 1;
     transition: 1.5s ease;
     transform: scale(1.5) rotate(360deg);
