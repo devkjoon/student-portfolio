@@ -195,14 +195,27 @@ section.projects ul {
     font-size: 20px;
 }
 
-.img {
+.img-flexbox {
+    margin: 20px;
+    width: 450px;
+    opacity: 0.5;
+    transition: 1.5s ease;
+}
+
+.img-horiseon {
     margin: 20px;
     width: 400px;
     opacity: 0.5;
     transition: 1.5s ease;
 }
 
-.img:hover {
+.img-flexbox:hover {
+    opacity: 1;
+    transition: 1.5s ease;
+    transform: scale(1.5) rotate(360deg);
+}
+
+.img-horiseon:hover {
     opacity: 1;
     transition: 1.5s ease;
     transform: scale(1.5) rotate(360deg);
