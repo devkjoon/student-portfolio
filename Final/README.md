@@ -15,7 +15,7 @@ This project is my portfolio. The motivation behind this project is to show empl
 
 ## Installation
 
-1. Click submitted link. Link is also as follows: 
+1. Click submitted link. Link is also as follows: https://joonkidk.github.io/portfolio/index.html
 
 ## Usage
 
