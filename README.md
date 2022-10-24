@@ -25,6 +25,7 @@ This project is my portfolio. The motivation behind this project is to show empl
 
 - https://developer.mozilla.org/en-US/docs/Web/CSS
 - https://developer.mozilla.org/en-US/docs/Web/HTML
+- https://coolors.co/
 
 ## License
 
