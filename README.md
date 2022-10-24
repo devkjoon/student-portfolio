@@ -9,8 +9,8 @@ This project is my portfolio. The motivation behind this project is to show empl
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 - [Features](#features)
+- [License](#license)
 - [How-to-Contribute](#howtocontribute)
 
 ## Installation
@@ -27,11 +27,17 @@ This project is my portfolio. The motivation behind this project is to show empl
 - https://developer.mozilla.org/en-US/docs/Web/HTML
 - https://coolors.co/
 
+## Features
+
+1. Navigation link is active. As of right now the page is not long enough to effectively show this feature. However if you zoom in the page so that you can scroll, if you click the navigation headers, the page will link to that section.
+
+2. Profile picture becomes bigger on hover.
+
+3. The website previews become bigger on hover. Scaled 1.5x
+
 ## License
 
-The last section of a high-quality README file is the license. This lets other deMIT License
-
-Copyright (c) 2022 joonkidk
+ (c) 2022 joonkidk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -50,14 +56,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Features
-
-1. Navigation link is active. As of right now the page is not long enough to effectively show this feature. However if you zoom in the page so that you can scroll, if you click the navigation headers, the page will link to that section.
-
-2. Profile picture becomes bigger on hover.
-
-3. The website previews become bigger on hover. Scaled 1.5x
 
 ## How to Contribute
 
