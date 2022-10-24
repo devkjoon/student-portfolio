@@ -29,11 +29,13 @@ This project is my portfolio. The motivation behind this project is to show empl
 
 ## Features
 
-1. Navigation link is active. As of right now the page is not long enough to effectively show this feature. However if you zoom in the page so that you can scroll, if you click the navigation headers, the page will link to that section.
+1. Welcome button changes colors and transforms upon hover. Once clicked, button links to portfolio.
 
-2. Profile picture becomes bigger on hover.
+2. Navigation link is active. As of right now the page is not long enough to effectively show this feature. However if you zoom in the page so that you can scroll, if you click the navigation headers, the page will link to that section.
 
-3. The website previews become bigger on hover. Scaled 1.5x
+3. Profile picture becomes bigger on hover.
+
+4. The website previews become bigger on hover. Scaled 1.5x
 
 ## License
 
